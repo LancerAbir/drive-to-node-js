@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    min-height:  700px;
+    background-color: red;
+}
+
+footer {
+    min-height: 80px;
+    background-color: rgb(109, 22, 22);
+    color: #fff;
+    text-align: center;
+}
